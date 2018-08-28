@@ -1,0 +1,30 @@
+.nav {
+
+  &__container {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    width: 100%;
+    border-bottom: 2px solid #e3e3e3;
+  }
+
+  &__button {
+    padding: 10px;
+    max-width: 200px;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+  }
+
+  &__button:hover {
+    background-color: #f2f2f2;
+    cursor: pointer;
+  }
+
+  &__search {
+    border: 2px solid #e3e3e3;
+    padding: 5px;
+    width: 100%;
+    margin: 10px;
+  }
+
+}

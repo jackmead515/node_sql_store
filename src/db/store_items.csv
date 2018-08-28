@@ -1,0 +1,30 @@
+id,item_name,short_descript,long_descript,image_url,price
+1,Sweat Pants,Comfortable and cool sweat pants for working out and relaxing,Comfortable and cool sweat pants for working out and relaxing,sweat_pants.jpeg,15.99
+2,Shorts,Flexible shorts with breathable fabric,Flexible shorts with breathable fabric,shorts.jpeg,12.99
+3,Jeans,Heavy duty jeans made for wear and tear,Heavy duty jeans made for wear and tear,jeans.jpg,20.99
+4,Dress,Beautiful and soft dress for a sunny day,Beautiful and soft dress for a sunny day,dress.png,25.75
+5,High Heels,Fashionable heels for date night,Fashionable heels for date night,high_heels.jpg,13.89
+6,Sneakers,Everyday wear shoes,Everyday wear shoes,sneaker.jpg,56.99
+7,Running Shoes,Shoes meant for running,Shoes meant for running,running_shoes.jpg,59.99
+8,Socks,Durable and warm socks,Durable and warm socks,socks.jpeg,5.45
+9,Long Sleeve Tee, A basic long sleeve shirt for regular wear,A basic long sleeve shirt for regular wear,t_long_shirt.png,11.99
+10,Under Shirt,A nice undershirt to wear under a suit or working out,A nice undershirt to wear under a suit or working out,under_shirt.png,5.99
+11,T-Shirt,A basic shirt for regular wear,A basic shirt for regular wear,t_shirt.png,9.99
+12,Bra,Comfortable support for women,Comfortable support for women,bra.jpg,49.99
+13,Hoodie,Perfect for chilling out on the couch,Perfect for chilling out on the couch,hoodie.jpg,24.99
+14,Sweat Shirt,Warm and comfortable for a cool night,Warm and comfortable for a cool night,sweat_shirt.jpg,19.99
+15,Sweater,Reminds you of a cozy fireplace,Reminds you of a cozy fireplace,sweater.jpg,12.99
+16,Turtle Neck,That weird shirt your professor always wears,That weird shirt your professor always wears,turtleneck.jpg,12.99
+17,Hat,Just a basic hat to keep your head warm,Just a basic hat to keep your head warm,hat.jpg,4.99
+18,Jacket,Zipper jacket for a cool night,Zipper jacket for a cool night,jacket.jpeg,49.99
+19,Scarf,Protect your neck during winter,Protect your neck during winter,scarf.jpg,14.99
+20,Boots,Durable boots for the working person,Durable boots for the working person,boots.jpg,32.99
+21,Poncho,A poncho to feel like a true Mexican cowboy,A poncho to feel like a true Mexican cowboy,poncho.jpeg,34.99
+22,Skirt,A lovely skirt for the summertime,A lovely skirt for the summertime,skirt.jpg,29.99
+23,Underwear,Lock your junk in the trunk!,Lock your junk in the trunk!,underwear.jpeg,3.49
+24,Trench Coat,Note: do not unbutton without clothes on underneath,Note: do not unbutton without clothes on underneath,trenchcoat.jpg,99.99
+25,Swimsuit,Regular swim wear for the beach,Regular swim wear for the beach,swimsuit.jpg,34.99
+26,Flip Flops,Flip and flop with a record of 0.32 seconds putting on,Flip and flop with a record of 0.32 seconds putting on,flipflops.jpeg,4.99
+27,Blouse,"I don’t exactly know what a blouse is, but it’s for girls","I don’t exactly know what a blouse is, but it’s for girls",blouse.jpg,12.99
+28,Cardigan,For some extra layers,For some extra layers,cardigan.jpeg,12.99
+29,Overalls,Jean overalls made for tough weather,Jean overalls made for tough weather,overalls.jpg,34.99

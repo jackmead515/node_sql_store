@@ -1,0 +1,38 @@
+.profile {
+
+  &__container {
+    display: flex;
+    flex-direction: column;
+  }
+
+  &__user {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    font-weight: bold;
+    font-size: 20px;
+  }
+
+  &__table, &__heading, &__elem {
+    border: 2px solid #e3e3e3;
+    border-collapse: collapse;
+  }
+
+  &__table {
+
+  }
+
+  &__row {
+
+  }
+
+  &__heading {
+    padding: 10px;
+    text-align: center;
+  }
+
+  &__elem {
+    padding: 10px;
+    text-align: center;
+  }
+
+}

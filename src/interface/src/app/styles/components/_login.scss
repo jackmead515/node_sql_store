@@ -1,0 +1,43 @@
+.login {
+
+  &__container {
+    width: 100vw;
+    height: 100vh;
+    max-width: 100vw;
+    max-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  &__form {
+    display: flex;
+    flex-direction: column;
+  }
+
+  &__username {
+    border: 2px solid #e3e3e3;
+    margin-bottom: 10px;
+    padding: 5px;
+  }
+
+  &__password {
+    border: 2px solid #e3e3e3;
+    padding: 5px;
+    margin-bottom: 10px;
+  }
+
+  &__submit {
+    border: 2px solid #e3e3e3;
+    background-color: white;
+    padding: 5px;
+    font-size: 15px;
+    font-weight: bold;
+  }
+
+  &__submit:hover {
+    background-color: #f2f2f2;
+    cursor: pointer;
+  }
+
+}
